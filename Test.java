@@ -5,5 +5,6 @@ class Test{
    Student s=new Student();
    s.setName("akhil");
    System.out.println(s.getName());
+   System.out.println("after changing");
  }
 }
