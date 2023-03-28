@@ -6,5 +6,6 @@ class Test{
    s.setName("akhil");
    System.out.println(s.getName());
    System.out.println("after changing");
+   System.out.println("its time editing");
  }
 }
